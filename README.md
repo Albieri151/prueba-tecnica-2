@@ -12,7 +12,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/auth-api.git
+git clone https://github.com/Albieri151/prueba-tecnica-2.git
 ```
 
 
