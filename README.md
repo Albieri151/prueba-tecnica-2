@@ -1,6 +1,15 @@
-# prueba-tecnica-2
-Esta es la segunda prueba técnica del proceso de seleccion.
+# Prueba Tecnica 2
 
-La documentacion del proyecto esta en swagger, despues de levantar el proyecto en local debe entrar a la siguiente url: http://localhost:8080/swagger-ui/index.html#/
+# API de Autenticación con Spring Boot y DummyJSON
 
-Tomar en cuenta que debe modificar el .properties para cambiar la direccion de la base de datos y colocar sus datos de acceso a la base de datos
+## 📋 Requisitos del sistema
+
+- **Java 21** (Requisito obligatorio)
+- **PostgreSQL 15+** (Instalado localmente)
+- **Maven 3.9+** (Gestor de dependencias)
+
+## 🚀 Instalación y ejecución
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/tu-usuario/auth-api.git
